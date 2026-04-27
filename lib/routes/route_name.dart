@@ -1,0 +1,46 @@
+abstract class RouteName{
+  static const splashScreen = '/';
+  static const dashboard = '/dashboard';
+  static const auth = '/auth';
+  static const appPengiriman = '/appPengiriman';
+  static const appOrderan = '/appOrderan';
+  static const appFormReport = '/appFormReport';
+  static const appFormOrder = '/appFormOrder';
+  static const menuReport = '/menuReport';
+  static const menuPageConnect = '/menuPageConnect';
+  static const menuDisconnect = '/menuDisconnect';
+  // static const menuPageDisconnect = '/menuPageDisconnect';
+  // static const controllerMenuOrderan = '/controllerMenuOrderan';
+  static const lineChart = '/lineChart';
+  static const appListReport = '/appListReport';
+  static const registrasiHelp = '/registrasiHelp';
+  static const appDetailSaa = '/appDetailSaa';
+  static const appDetailSna = '/appDetailSna';
+  static const appDetailKunjunganSna = '/appDetailKunjunganSna';
+  static const appDetailListReport = '/appDetailListReport';
+  static const appListSurvey = '/appListSurvey';
+  static const appDetailListSurvey = '/appDetailListSurvey';
+  static const mapsLocationTargetPostRadiusFromLinkAndLedger = '/mapsLocationTargetPostRadiusFromLinkAndLedger';
+  static const mapsLocationTargetPostRadiusFromLink = '/mapsLocationTargetPostRadiusFromLink';
+  static const mapsLocationTargetPostRadiusFrom = '/mapsLocationTargetPostRadiusFrom';
+  static const mapsLocationTargetGetRadius = '/mapsLocationTargetGetRadius';
+  static const appFormSurveyTokoBaru = '/appFormSurveyTokoBaru';
+  static const appFormSurveyProyekBaru = '/appFormSurveyProyekBaru';
+  static const appFormSurveyProyekLama = '/appFormSurveyProyekLama';
+  static const webPageLink = '/webPageLink';
+  static const appListReportDisconnect = '/appListReportDisconnect';
+  static const appListSurveyDisconnect = '/appListSurveyDisconnect';
+  static const appPengajuanKunjungan = '/appPengajuanKunjungan';
+  static const appPengajuanTidakKunjungan = '/appPengajuanTidakKunjungan';
+  static const appFormAlamatPengiriman = '/appFormAlamatPengiriman';
+  static const appListPengajuanTambahKunjungan = '/appListPengajuanTambahKunjungan';
+  static const appListPengajuanTidakKunjungan = '/appListPengajuanTidakKunjungan';
+  static const appListPengajuanPenggantiKunjungan = '/appListPengajuanPenggantiKunjungan'; 
+  static const appPengajuanPenggantiKunjungan = '/appPengajuanPenggantiKunjungan';
+  static const appPengajuanPenugasanKunjungan = '/appPengajuanPenugasanKunjungan';
+  static const appFormPenugasanKunjungan = '/appFormPenugasanKunjungan';
+  static const appListPenugasanKunjungan = '/appListPenugasanKunjungan';
+
+  static const appFormSurveyTokoLama = '/appFormSurveyTokoLama';
+  static const appFormGagalKunjungan = '/appFormGagalKunjungan';
+}
